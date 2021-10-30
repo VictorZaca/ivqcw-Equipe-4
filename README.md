@@ -1,2 +1,2 @@
-# ivqcw-Equipe-4
-Repositório Hackathon do IV Workshop de Computação Quântica Time Equipe 4.
+# ivqcw-IFRS-CXS
+Repositório Hackathon do IV Workshop de Computação Quântica Time IFRS-CXS.
